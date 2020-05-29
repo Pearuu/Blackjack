@@ -6,4 +6,4 @@ Build a simple Blackjack game using HTML, CSS, JavaScript and jQuery. It’s a s
 
 29.May.2020 added few features - visual representation of all the cards & conditional handling of the value of an Ace card
 
-Please find Live Game here -> https://pearuu.github.io/Blackjack-Game/
+Please find Live Game here -> https://pearuu.github.io/Blackjack/
